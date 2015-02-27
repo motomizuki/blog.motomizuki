@@ -1,14 +1,11 @@
 box: wercker/default
 build:
   steps:
-    - arjen/hugo-build:
-      version: 0.12
+    - arjen/hugo-build@1.0.2:
       theme: beg
       flags: --disableSitemap=true
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
       token: $GIT_TOKEN
-      domain: hugo-wercker.ig.nore.me
       basedir: public
-

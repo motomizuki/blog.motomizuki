@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Motomizuki Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>https://motomizuki.github.io/index.xml/</link>
+    <language>ja</language>
+    <author>motomizuki</author>
+    
+    <updated>Sat, 28 Feb 2015 04:22:03 &#43;0900</updated>
+    
+    <item>
+      <title>secand</title>
+      <link>https://motomizuki.github.io/blog/2015/02/28/secand/</link>
+      <pubDate>Sat, 28 Feb 2015 04:22:03 &#43;0900</pubDate>
+      <author>motomizuki</author>
+      <guid>https://motomizuki.github.io/blog/2015/02/28/secand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://motomizuki.github.io/blog/2015/02/28/first/</link>
+      <pubDate>Sat, 28 Feb 2015 02:21:06 &#43;0900</pubDate>
+      <author>motomizuki</author>
+      <guid>https://motomizuki.github.io/blog/2015/02/28/first/</guid>
+      <description>&lt;p&gt;#初投稿
+テスト&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://motomizuki.github.io/about/</link>
+      <pubDate>Fri, 27 Feb 2015 23:45:18 &#43;0900</pubDate>
+      <author>motomizuki</author>
+      <guid>https://motomizuki.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;Author : motomizuki&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

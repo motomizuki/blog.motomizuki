@@ -1,0 +1,7 @@
+box: wercker/default
+build:
+  steps:
+    - motomizuki/blog.motomizuki:
+        version: 0.12
+        theme: beg
+        flags: --disableSitemap=true

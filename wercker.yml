@@ -9,4 +9,4 @@ deploy:
         - lukevivier/gh-pages@0.2.1:
             token: $GIT_TOKEN
             basedir: public
-            #repo: motomizuki/motomizuki.github.io
+            repo: motomizuki/motomizuki.github.io

@@ -27,7 +27,7 @@ MetaDataFormat = "toml"
     # Changes sidebar background and link/accent colours.
     # See below for more colour options.
     # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-    theme = "theme-base-09"
+    theme = "theme-base-09 layout-reverse"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.

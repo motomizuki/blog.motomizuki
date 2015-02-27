@@ -2,11 +2,11 @@ box: wercker/default
 build:
     steps:
         - arjen/hugo-build@1.0.2:
-            theme: hyde-x
+            theme: hugo-nano
             flags: --buildDrafts=true
 deploy:
     steps:
         - lukevivier/gh-pages@0.2.1:
             token: $GIT_TOKEN
             basedir: public
-            repo: motomizuki/motomizuki.github.io
+            #repo: motomizuki/motomizuki.github.io

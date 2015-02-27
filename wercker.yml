@@ -2,7 +2,7 @@ box: wercker/default
 build:
     steps:
         - arjen/hugo-build@1.0.2:
-            theme: hugo-uno
+            theme: aglaus
             flags: --buildDrafts=true
 deploy:
     steps:

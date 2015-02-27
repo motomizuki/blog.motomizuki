@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Motomizuki Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Motomizuki Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 28 Feb 2015 02:21:06 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/blog/2015/02/28/first/</link>
+      <pubDate>Sat, 28 Feb 2015 02:21:06 +0900</pubDate>
+      
+      <guid>http://localhost:1313/blog/2015/02/28/first/</guid>
+      <description>&lt;p&gt;#初投稿
+テスト&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

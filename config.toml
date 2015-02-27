@@ -1,4 +1,9 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
 baseurl = "https://motomizuki.github.io"
+
+
 title = "Motomizuki Blog"
 languageCode = "ja"
 disqusShortname = "Moto Blo" # Optional, enable Disqus integration

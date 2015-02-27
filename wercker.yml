@@ -10,3 +10,4 @@ deploy:
             token: $GIT_TOKEN
             domain: motomizuki.github.io
             basedir: public
+            repo: motomizuki/motomizuki.github.io

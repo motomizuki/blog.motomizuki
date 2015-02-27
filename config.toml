@@ -1,6 +1,3 @@
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
 baseurl = "https://motomizuki.github.io"
 
 

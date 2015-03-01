@@ -1,8 +1,8 @@
 +++
-categories = [Hugo, Wercker]
+categories = ["hugo", "wercker", "memo"]
 date = "2015-02-28T11:46:32+09:00"
 description = "Hugo,  Wercker, blog, 自動デプロイ"
-keywords = [Hugo, Wercker, Memo]
+keywords = ["hugo", "wercker", "CI" ]
 title = "Hugoのインストールから自動デプロイまで"
 
 +++

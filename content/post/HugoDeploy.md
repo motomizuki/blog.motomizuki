@@ -1,9 +1,10 @@
 +++
 categories = ["hugo", "wercker", "memo"]
 date = "2015-02-28T11:46:32+09:00"
-description = "Hugo,  Wercker, blog, 自動デプロイ"
+description = "Hugo,  Wercker, 自動デプロイ"
 keywords = ["hugo", "wercker", "CI" ]
-title = "Hugoのインストールから自動デプロイまで"
+title = "HugoDeploy"
+jtitle = "Hugoのインストールから自動デプロイまで"
 
 +++
 このブログを作るにあたって行ったことのメモ

@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+
+Sitemap: https://motomizuki.github.io/sitemap.xml

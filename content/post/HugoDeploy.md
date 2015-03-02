@@ -92,8 +92,8 @@ $ git init
 ```zsh
 $ echo "/public" >> .gitignore
 ```
-テーマのstaticディレクトリ内にファイルが存在しないので
-Werckerに無視してもらうよう設定する．
+空のディレクトリがあるとWerckerに警告されるので，staticディレクトリ内に
+とりあえず`rbots.txt`を置いておく．
 ```zsh
 echo "User-agent: *\nDisallow:" > static/robots.txt
 ```

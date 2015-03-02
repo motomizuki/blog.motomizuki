@@ -1,4 +1,4 @@
-baseurl = "https://motomizuki.github.io"
+baseurl = "http://motomizuki.github.io"
 
 
 title = "Motomizuki Blog"
@@ -17,6 +17,14 @@ MetaDataFormat = "toml"
 [indexes]
     # Optional. Use if you want tags and lists.
     category = "categories"
+
+# Add menu to sidebar
+#[[menu.main]]
+#    name = "About"
+#    pre = "<i class='fa fa-heart'></i>"
+#    weight = -110
+#    identifier = "about"
+#    url = "/about/"
 
 #
 # All parameters below here are optional and can be mixed and matched.

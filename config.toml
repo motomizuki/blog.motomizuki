@@ -3,7 +3,7 @@ baseurl = "https://motomizuki.github.io"
 
 title = "Motomizuki Blog"
 languageCode = "ja"
-disqusShortname = "Moto Blo" # Optional, enable Disqus integration
+disqusShortname = "motomizuki" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 
 [author]

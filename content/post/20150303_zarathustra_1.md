@@ -7,7 +7,6 @@ keywords = ["ニーチェ", "book", "bookReview"]
 title = "20150303_zarathustra_1"
 
 +++
-# ツァラトゥストラはこう言った 上 : ニーチェ
 ![img](http://ecx.images-amazon.com/images/I/5167K374B2L.jpg)
 
 ## 本の概要

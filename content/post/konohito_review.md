@@ -7,7 +7,6 @@ keywords = ["書評", "ニーチェ"]
 title = "konohito_review"
 
 +++
-# [この人を見よ](http://amzn.to/1B1uFiy) : ニーチェ,  手塚富雄
 [![img](https://images-na.ssl-images-amazon.com/images/I/51JRbhddnvL.jpg)](http://amzn.to/1B1uFiy)
 ## 本の概要
 素晴らしい本を書いたニーチェってどんな人，どんな考えなのといった自己紹介本にして遺作.

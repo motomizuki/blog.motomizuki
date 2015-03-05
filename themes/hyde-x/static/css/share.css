@@ -1,0 +1,15 @@
+#social_box{
+  background:#fff;
+  padding:15px;
+  width:250px;
+  text-align:center;
+  list-style-type:none;
+  margin-left: 50%;
+  left:-125px;
+  position: relative;
+}
+
+#social_box li{
+  float:left;
+  margin-left:10px;
+}

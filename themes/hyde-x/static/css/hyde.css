@@ -53,7 +53,7 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
-.sidebar {
+.topbar {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -71,12 +71,12 @@ html {
 }
 
 /* Sidebar links */
-.sidebar a {
+.topbar a {
   color: #fff;
 }
 
 /* About section */
-.sidebar-about h1 {
+.topbar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
@@ -84,18 +84,18 @@ html {
 }
 
 /* Sidebar nav */
-.sidebar-nav {
+.topbar-nav {
   margin-bottom: 1rem;
 }
-.sidebar-nav-item {
-  display: block;
+.topbar-nav-item {
+  margin-left:3%;
   line-height: 1.75;
 }
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
+a.topbar-nav-item:hover,
+a.topbar-nav-item:focus {
   text-decoration: underline;
 }
-.sidebar-nav-item.active {
+.topbar-nav-item.active {
   font-weight: bold;
 }
 
@@ -129,15 +129,11 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
   }
 }
 
@@ -154,15 +150,11 @@ a.sidebar-nav-item:focus {
     right: 0;
   }
   .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
   }
 }
 
@@ -187,7 +179,7 @@ a.sidebar-nav-item:focus {
 }
 
 /* Orange */
-.theme-base-09 .sidebar {
+.theme-base-09 .topbar {
   background-color: #d28445;
 }
 .theme-base-09 .content a,

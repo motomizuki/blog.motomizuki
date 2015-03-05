@@ -1,0 +1,23 @@
+<div class="topbar">
+  <div class="container topbar-sticky">
+    <div class="topbar-about">
+      {{ with .Site.Params.gravatarHash }}<img src="http://www.gravatar.com/avatar/{{ . }}?s=200" alt="gravatar">{{ end }}
+      <h1>{{ .Site.Author.name }}</h1>
+      {{ with .Site.Params.tagline }}<p class="lead">{{ . }}</p>{{ end }}
+    </div>
+
+    <ul class="topbar-nav">
+      <li class="topbar-nav-item"><a href="{{ .Site.BaseUrl }}/">Blog</a></li>
+      {{ range .Site.Menus.main }}
+      <li class="topbar-nav-item"><a href="{{ .Url }}">{{ .Name }}</a></li>
+      {{end}}
+
+      {{ with .Site.Params.github }}<li class="topbar-nav-item"><a href="{{ . }}">GitHub</a></li>{{ end }}
+      {{ with .Site.Params.linkedin }}<li class="topbar-nav-item"><a href="{{ . }}">LinkedIn</a></li>{{ end }}
+      {{ with .Site.Params.googleplus }}<li class="topbar-nav-item"><a href="{{ . }}">Google+</a></li>{{ end }}
+      {{ with .Site.Params.facebook }}<li class="topbar-nav-item"><a href="{{ . }}">Facebook</a></li>{{ end }}
+      {{ with .Site.Params.twitter }}<li class="topbar-nav-item"><a href="{{ . }}">Twitter</a></li>{{ end }}
+    </ul>
+
+  </div>
+</div>

@@ -1,5 +1,5 @@
 +++
-categories = ["book", "bookReview"]
+categories = ["book", "review", "nietzshe"]
 date = "2015-03-02T22:52:06+09:00"
 description = "ニーチェの「この人を見よ」を読んで"
 jtitle = "この人を見よ : ニーチェ"

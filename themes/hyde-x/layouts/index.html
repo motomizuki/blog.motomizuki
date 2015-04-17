@@ -16,7 +16,9 @@
       <a href="{{ .Permalink }}">Read On &rarr;</a>
     </div>
     {{ end }}{{ end }}
-
+    {{ template "partials/pagination.html" . }}
+    {{ range .Paginator.Pages }}
+       {{ .Title }}
+       {{ end }}
 </div>
-
 {{ partial "foot.html" . }}

@@ -1,7 +1,6 @@
 {{ partial "head.html" . }}
 <div class="content container">
     <div class="posts">
-{{ template "_internal/pagination.html" . }}
     {{ range .Data.Pages }}{{ if eq .Section "post" }}
     <div class="post">
       <h1 class="post-title">

@@ -17,19 +17,6 @@
     </div>
     {{ end }}{{ end }}
 
- {{ $paginator := .Paginator }}
-
-    <div class="extra-pagination inner">
-        {{ partial "pagination.html" $paginator }}
-    </div>
-
-    {{ range $index, $page := .Paginator.Pages }}
-        {{ .Render "li" }}
-    {{ end }}
-
-    {{ partial "pagination.html" $paginator }}
-
-  </div>
 </div>
 
 {{ partial "foot.html" . }}

@@ -1,6 +1,4 @@
 baseurl = "http://motomizuki.github.io"
-
-
 title = "Motomizuki Blog"
 languageCode = "ja"
 disqusShortname = "motomizuki" # Optional, enable Disqus integration

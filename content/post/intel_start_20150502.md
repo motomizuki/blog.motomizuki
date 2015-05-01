@@ -63,7 +63,7 @@ configure_edison --setup
 で初期設定をしていく。
 設定項目はrootのパスワードと, edisonの名前(host名), 
 使用するwifi。
-設定後にedisonの名前でhttp://host.localでEdisonのwebサーバにアクセスできる。sshも
+設定後にedisonの名前で\http://host.local`でEdisonのwebサーバにアクセスできる。sshも
 
 ```
 ssh root@host.local

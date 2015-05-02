@@ -2,7 +2,7 @@
 categories = ["book", "review", "philip k dick"]
 date = "2015-05-01T08:03:25+09:00"
 description = "ディックの人間以前を読んで"
-jtitle = "人間以前：フィリップ・K・ディック"
+jtitle = "人間以前：Philip・K・Dick"
 keywords = ["book", "review", "philip k dick"]
 title = "ningenizen_20150430"
 

@@ -1,7 +1,7 @@
 box: wercker/default
 build:
     steps:
-        - arjen/hugo-build@1.0.2:
+        - arjen/hugo-build@1.2.0:
             theme: hyde-x
             flags: --buildDrafts=true
 deploy:

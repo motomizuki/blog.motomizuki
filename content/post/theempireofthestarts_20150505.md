@@ -7,7 +7,7 @@ keywords = ["book", "review", "arthur i. miller"]
 title = "theempireofthestarts_20150505"
 
 +++
-![img]()
+![img](http://ecx.images-amazon.com/images/I/51mVyq9S-mL.jpg)
 
 # 概要
 白色矮星を研究していたスブラマニアン・チャンドラセガールの生涯を描いた本。

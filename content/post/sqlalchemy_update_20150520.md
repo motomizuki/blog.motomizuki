@@ -16,8 +16,8 @@ title = "sqlalchemy_update_20150520"
 通常のupdateは次のような感じ。
 
 ```python
-stmt = users.update().\
-            where(users.id==5).\
+stmt = Users.update().\
+            where(Users.id==5).\
             values(name='user #5')
 ```
 
